@@ -1,0 +1,29 @@
+.content-dividers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 6%;
+}
+
+.dividers {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+}
+
+.divider {
+    height: 60px;
+    width: 250px;
+    border-radius: 40px;
+    display: flex;
+}
+
+.bg-pink {
+    background-color: #EFE0E8;
+    align-self: flex-start;
+}
+
+.bg-green {
+    background-color: #8FB5AB;
+    align-self: flex-end;
+}

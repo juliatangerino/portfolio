@@ -5,7 +5,7 @@ import cord from '../../assets/cord.svg'
 function Main() {
     return (
         <div>
-            <div className='container'>
+            <div className='container-main'>
                 <div className='details'>
                     <div className='cord'>
                         <img src={cord} alt="cord" className='cord' />
@@ -16,7 +16,7 @@ function Main() {
                 </div>
                 <div>
                     <div className='content-text-presentation'>
-                        <div className='text'>
+                        <div>
                             <h1>
                                 Hi! Welcome, I'm Juliana
                             </h1>

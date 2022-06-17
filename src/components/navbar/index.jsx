@@ -2,7 +2,7 @@ import './style.css';
 
 function Navbar() {
   return (
-    <div className="App">
+    <div>
       <nav>
         <ul>
           <li>
